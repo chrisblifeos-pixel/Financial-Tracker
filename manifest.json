@@ -1,0 +1,11 @@
+{
+  "id": "bank-register",
+  "name": "Bank Register",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A bank account register to track transactions with running balance, stored in /Financials/ as a markdown table.",
+  "author": "Custom Plugin",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
